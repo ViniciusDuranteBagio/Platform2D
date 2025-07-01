@@ -1,0 +1,42 @@
+# ========== UNITY ==========
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+UserSettings/
+Packages/packages-lock.json
+
+# Lightmap, GI e cache
+LightingData.asset
+**/Lightmap*
+**/ReflectionProbe*
+**/Occlusion*
+
+# ========== SISTEMA ==========
+.DS_Store
+Thumbs.db
+
+# ========== UNITY VS / RIDER ==========
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# VSCode
+.vscode/
+
+# Rider
+.idea/
+*.sln.iml
+
+# Crash logs
+sysinfo.txt
